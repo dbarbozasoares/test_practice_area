@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\diego\OneDrive\Documents\comback.cpp\comback.cpp\main.cpp(125,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Documents\comback.cpp\comback.cpp\main.cpp(126,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  comback.cpp.vcxproj -> C:\Users\diego\OneDrive\Documents\comback.cpp\x64\Debug\comback.cpp.exe
